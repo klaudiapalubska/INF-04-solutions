@@ -1,0 +1,17 @@
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\bin\Debug\net6.0-windows\desktop-poczta.exe
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\bin\Debug\net6.0-windows\desktop-poczta.deps.json
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\bin\Debug\net6.0-windows\desktop-poczta.runtimeconfig.json
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\bin\Debug\net6.0-windows\desktop-poczta.dll
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\bin\Debug\net6.0-windows\desktop-poczta.pdb
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop_poczta.Form1.resources
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop_poczta.Properties.Resources.resources
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.csproj.GenerateResource.cache
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.AssemblyInfoInputs.cache
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.AssemblyInfo.cs
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.csproj.CoreCompileInputs.cache
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.dll
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\refint\desktop-poczta.dll
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.pdb
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\desktop-poczta.genruntimeconfig.cache
+C:\Users\zafir\source\repos\desktop-poczta\desktop-poczta\obj\Debug\net6.0-windows\ref\desktop-poczta.dll
