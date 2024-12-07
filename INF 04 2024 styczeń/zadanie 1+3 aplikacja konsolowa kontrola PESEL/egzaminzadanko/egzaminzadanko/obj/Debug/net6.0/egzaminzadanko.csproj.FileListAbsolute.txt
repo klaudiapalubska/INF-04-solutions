@@ -1,0 +1,14 @@
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\bin\Debug\net6.0\egzaminzadanko.exe
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\bin\Debug\net6.0\egzaminzadanko.deps.json
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\bin\Debug\net6.0\egzaminzadanko.runtimeconfig.json
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\bin\Debug\net6.0\egzaminzadanko.dll
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\bin\Debug\net6.0\egzaminzadanko.pdb
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\egzaminzadanko.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\egzaminzadanko.AssemblyInfoInputs.cache
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\egzaminzadanko.AssemblyInfo.cs
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\egzaminzadanko.csproj.CoreCompileInputs.cache
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\egzaminzadanko.dll
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\refint\egzaminzadanko.dll
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\egzaminzadanko.pdb
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\egzaminzadanko.genruntimeconfig.cache
+C:\Users\zafir\source\repos\egzaminzadanko\egzaminzadanko\obj\Debug\net6.0\ref\egzaminzadanko.dll

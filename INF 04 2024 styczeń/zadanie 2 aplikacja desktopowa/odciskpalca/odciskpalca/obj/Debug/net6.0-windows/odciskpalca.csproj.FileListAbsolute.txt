@@ -1,0 +1,17 @@
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\bin\Debug\net6.0-windows\odciskpalca.exe
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\bin\Debug\net6.0-windows\odciskpalca.deps.json
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\bin\Debug\net6.0-windows\odciskpalca.runtimeconfig.json
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\bin\Debug\net6.0-windows\odciskpalca.dll
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\bin\Debug\net6.0-windows\odciskpalca.pdb
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.Form1.resources
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.Properties.Resources.resources
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.csproj.GenerateResource.cache
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.AssemblyInfoInputs.cache
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.AssemblyInfo.cs
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.csproj.CoreCompileInputs.cache
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.dll
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\refint\odciskpalca.dll
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.pdb
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\odciskpalca.genruntimeconfig.cache
+C:\Users\zafir\source\repos\odciskpalca\odciskpalca\obj\Debug\net6.0-windows\ref\odciskpalca.dll
