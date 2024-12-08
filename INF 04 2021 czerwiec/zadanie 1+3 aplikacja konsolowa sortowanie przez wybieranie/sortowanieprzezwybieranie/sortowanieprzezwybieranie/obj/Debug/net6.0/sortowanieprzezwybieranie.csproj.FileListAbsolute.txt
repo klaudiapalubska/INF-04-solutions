@@ -1,0 +1,14 @@
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\bin\Debug\net6.0\sortowanieprzezwybieranie.exe
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\bin\Debug\net6.0\sortowanieprzezwybieranie.deps.json
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\bin\Debug\net6.0\sortowanieprzezwybieranie.runtimeconfig.json
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\bin\Debug\net6.0\sortowanieprzezwybieranie.dll
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\bin\Debug\net6.0\sortowanieprzezwybieranie.pdb
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\sortowanieprzezwybieranie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\sortowanieprzezwybieranie.AssemblyInfoInputs.cache
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\sortowanieprzezwybieranie.AssemblyInfo.cs
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\sortowanieprzezwybieranie.csproj.CoreCompileInputs.cache
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\sortowanieprzezwybieranie.dll
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\refint\sortowanieprzezwybieranie.dll
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\sortowanieprzezwybieranie.pdb
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\sortowanieprzezwybieranie.genruntimeconfig.cache
+C:\Users\zafir\source\repos\sortowanieprzezwybieranie\sortowanieprzezwybieranie\obj\Debug\net6.0\ref\sortowanieprzezwybieranie.dll
